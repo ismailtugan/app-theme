@@ -10,6 +10,9 @@ body{
     width:100%;
   }
   
+  .container{
+    margin:auto;
+  }
   
   /* COMMON CLASSES */
   .primary-text{
