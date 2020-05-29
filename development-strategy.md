@@ -1,53 +1,84 @@
-# Development Strategy
+# Acme-Web-Site
 
-> `name-of-project`
+- This repesitory created with the intention of enhance skills about `git-branch` `grid-layout` and css
 
-write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
 
 ## Wireframe
 
-<!-- include a wireframe for your project in this repository, and display it here -->
-<!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](https://cdn.glitch.com/1396458b-2731-4c6d-aef1-a4e4d2de5d25%2FLayout%2B-%2BHigh%2BLevel.png?v=1590790754782)
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
+1. I have created this repository 
+1. I added all folders which I need in the this repository 
+1. I have edited all changes in the HTML and CSS due to tabs in the `<nav>` element 
+1. I refer to all branchs same names of tabs 
+---
 
-### Repo
+## 1. User Story: index 
 
-- Generate from Template
-- Write initial, basic README
-- Turn on GitHub Pages
+### Branches
 
-## 1. __
-
-__full user story description__
-
-### Repo
-
-what branch(es) did you work on?
+1. This user story was developed on a brach called `index`
+1. It was merged to `master` when the feature was finished.
 
 ### HTML
 
-what did you change in the HTML and why?
+- Created all elements in Home tab 
+
+
+
+
+
+---
+
+## 2. User Story: about 
+
+
+### Branches
+
+1. This user story was developed on a brach called `about`
+1. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- Created all elements in About tab 
+
+
+---
+
+## 3. User Story: services 
+
+
+### Branches
+
+1. This user story was developed on a brach called `services`
+1. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- Created all elements in About tab 
+
+
+
+---
+## 4. User Story: contact 
+### Branches
+
+1. This user story was developed on a brach called `contact`
+1. It was merged to `master` when the feature was finished.
+
+### HTML
+
+- Created all elements in About tab 
+
+---
+## 5. User Story: style 
+### Branches
+
+1. This user story was developed on a brach called `style`
+1. It was merged to `master` when the feature was finished.
 
 ### CSS
 
-what did you change in the CSS and why?
-
-## 2. ...
-
-...
-
-...
-
-## Finishing Touches
-
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Validate code to check for any last mistakes
+- Created all code to form the web page
